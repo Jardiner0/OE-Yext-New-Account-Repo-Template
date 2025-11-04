@@ -142,13 +142,7 @@
           "id": "facebookLinkedAccount"
         },
         {
-          "id": "linkedinLinkedAccount"
-        },
-        {
           "id": "gmbLinkedAccount"
-        },
-        {
-          "id": "trustpilotLinkedAccount"
         }
       ]
     },
